@@ -41,4 +41,37 @@ nav ul{
                 padding: 18px 35px;
                 border-radius: 5px;
                 font-size: 20px;
+                border: none;
 }
+.greetings{
+  color: #474747;
+  font-size: 45px;
+  font-weight: 600;
+}
+.b-title{
+  font-size: 45px;
+  font-weight: 800;
+}
+.description{
+  color: #474747;
+  font-size: 18px;
+  font-weight: regular;
+}
+.p-piture{
+  width: 585px;
+  height:60px;
+}
+.banner{
+  display: flex;
+  justify-content:space-between;
+  margin: 0 35px 0 230px;
+}
+.banner-content{
+  max-width: 580px;
+}
+.bg-image{
+          background-image:url(images/developer.png),url(images/header_bg.png);
+          background-repeat: no-repeat;
+          background-position: top left, bottom right;
+}
+  
