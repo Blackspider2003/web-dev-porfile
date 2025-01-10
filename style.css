@@ -130,12 +130,12 @@ main{
 .resume-column-title{
   font-weight: bold;
   font-size: 30px;
-  color: #rgba(71, 71, 71, 1);
+  color: rgba(71, 71, 71, 1);
 }
 .resume-skill-title{
   font-weight: bold;
   font-size: 25px;
-  color: #rgba(71, 71, 71, 1);
+  color: rgba(71, 71, 71, 1);
 }
 .resume-skill-sub-title{
   font-weight: 600px;
